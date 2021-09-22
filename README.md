@@ -10,3 +10,6 @@
        
   * ### [Snapchat Filter](https://github.com/Ravjot03/Snapchat-Filter):
        In this project, I have made a Snapchat filter using OpenCV in Python.
+       
+  * ### [Face and Smile Detection](https://github.com/Ravjot03/Face-and-Smile-Detection):
+       The objective is to detect object of interest (face and smile) in real time and to keep tracking of the same object. In this project, I applied face and smile detection using OpenCV with Python.
